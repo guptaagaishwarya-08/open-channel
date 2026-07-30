@@ -1,11 +1,11 @@
-Panel  : http://89.187.191.54
-MAC    : 00:1A:79:84:80:F9
+Panel  : http://exclusifott.pro:80/c/
+MAC    : 00:1A:79:B5:FF:41
 Hindi  : Hindi ✅
 Stream : ✅ DD NATIONAL (HTTP 200)
 Cats   : ENGLISH NEWS, ENGLISH, ENGLISH USA LOCAL, ENGLISH MOVIES, ENGLISH MUSIC
 
-Panel  : http://89.187.191.54
-MAC    : 00:1A:79:47:B6:C1
+Panel  : http://exclusifott.pro:80/c/
+MAC    : 00:1A:79:B5:FF:41
 Hindi  : Hindi ✅
 Stream : ✅ DD NATIONAL (HTTP 200)
 Cats   : ENGLISH NEWS, ENGLISH, ENGLISH USA LOCAL, ENGLISH MOVIES, ENGLISH MUSIC
